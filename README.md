@@ -32,7 +32,7 @@
    - **Dragon Fruit**: Grants you the ability to throw knives.
 
 ---
-
+## Try the Game
 Enjoy playing **SamuNinja**, and may your reflexes guide you to victory!
 
 <a href="https://imbirika.itch.io/samuninja" target="_blank">Play The Game</a>
