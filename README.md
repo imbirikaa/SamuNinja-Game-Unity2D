@@ -66,7 +66,7 @@ Enjoy playing **SamuNinja**, and may your reflexes guide you to victory!
   - Script: `PlayerMovement`, Line 174
 - **Health Restoration**: Restores the player's health upon collecting specific items.  
   - Script: `Consume`, Line 27
-- **Enemy Spawning**: Spawns enemies at intervals.  
+- **Enemy Spawning**: Spawns enemies at intervals. 
   - Script: `Spawn`, Line 31
 - **Apple Spawning**: Spawns apples at intervals.  
   - Script: `Spawn`, Line 49
@@ -74,3 +74,15 @@ Enjoy playing **SamuNinja**, and may your reflexes guide you to victory!
   - Script: `Spawn`, Line 67
 - **Stop Spawning**: Stops spawning objects under certain conditions.  
   - Script: `Spawn`, Line 85
+
+---
+
+### *Assets Used*
+The game utilizes various assets that were sourced from *itch.io* to enhance the gameplay experience. Special thanks to the creators of these assets for making them available.
+
+- *[2D Character Sprites](https://itch.io)*: Used for the player and enemy character designs.
+- *[Backgrounds and UI Elements](https://itch.io)*: Used for the game's environment and user interface.
+
+Feel free to visit these assets on *itch.io* for more details and to support the creators.
+
+---
